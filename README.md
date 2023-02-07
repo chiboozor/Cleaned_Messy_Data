@@ -5,4 +5,6 @@ The columns had a lot of unrecognizable characters because the CSV file encoding
 There are no visualizations to show any reports, but that would be worked on in due time. 
 Enjoy perusing through my notebook and feel free to make changes as it would also help my learning process. 
 
+The messy_data.csv is the raw/dirty dataset, while the Cleaned_Messy_Data.ipynb is the notebook detailing the processes and steps I took in cleaning the dataset.
+
 I am open to criticism. Thank you.
